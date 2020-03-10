@@ -6,6 +6,5 @@ public class NewClass {
 
         System.out.println("C'mon");
 
-
     }
 }
